@@ -17,7 +17,7 @@ $ cd nodejs-typescript-boilerplate
 
 $ npm install
 
-$ npm run start`
+$ npm run start
 ```
 
 
